@@ -4,6 +4,10 @@ This project is a browser-based implementation of the classic Simon memory game,
 
 The main focus of this project is **correct game logic and predictable state management**, rather than visual complexity or external libraries.
 
+## Live Demo
+
+🔗[Live Demo](https://rutikss.github.io/simon-game-state-machine/)
+
 ---
 
 ## Why this project exists
